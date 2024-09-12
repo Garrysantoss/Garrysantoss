@@ -1,7 +1,15 @@
-## Hi there 👋
+Boas vindas ao meu perfil 💙💙
+Meu nome é nome sobrenome
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
 
 <!--
-**Garrysantoss/Garrysantoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Garrysantoss/GarrysanVocê pode entrar em contato comigo 📫
+00001131278446sp@aluno.educacao.sp.gov.br
+** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](link)
